@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "732090676649",
+    "firebase_url": "https://clockoftheuniverse.firebaseio.com",
+    "project_id": "clockoftheuniverse",
+    "storage_bucket": "clockoftheuniverse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732090676649:android:b68ebf45a79789f3",
+        "android_client_info": {
+          "package_name": "com.example.clockoftheuniverse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732090676649-ifl743ccol8d36d42o29he9mdhukum6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clockoftheuniverse",
+            "certificate_hash": "9f716328d634a20ca794cd6873d804bca8c4cbed"
+          }
+        },
+        {
+          "client_id": "732090676649-9u4tj1mhnd1s3qqubb3nt157gsm3ropv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXN3tXWb-7UjcDoBIUFspFKvyItuJEink"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732090676649-9u4tj1mhnd1s3qqubb3nt157gsm3ropv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
